@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1574463172117,
+  "timestamp": 1574464411927,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -942,6 +942,16 @@
         "/svg/md-woman.svg"
       ],
       "patterns": []
+    },
+    {
+      "name": "js resources",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/3rdpartylicenses.txt",
+        "/presentation/manifest.webmanifest"
+      ],
+      "patterns": []
     }
   ],
   "dataGroups": [],
@@ -1006,6 +1016,7 @@
     "/38-es5.219b1f042507bbadd1be.js": "9dafdaa36d58f1c4a115a10a3bfad1dddcc7c2ee",
     "/39-es2015.ff1e5028bffc80856d4a.js": "f73bd655b7335a1f41e8d8893a50cddff0250ec8",
     "/39-es5.5371e7d8f1f0e1f38795.js": "b23f8f202dd8be61b92b992774290cf1945e6729",
+    "/3rdpartylicenses.txt": "7d65631c9fcf032c23269d0e6972733fe65597c3",
     "/4-es2015.7a94a70ab8bb7033579a.js": "5f5a89177a42fcd80d1a52cbf7eed06e96f544f0",
     "/4-es5.2197d6f9ec501878baf1.js": "92f2e3b5789deb6b88e93725264d4d85e03efdf1",
     "/40-es2015.b2ae53fa742e415730e6.js": "6163d64fa7c323d126af6ccafe32a91e69746e91",
@@ -1163,6 +1174,7 @@
     "/main-es5.017abc5c0ee04293eb7e.js": "c607eceb4662d29bbc6a79c9d9264f18271477a0",
     "/polyfills-es2015.7ba1fb783f287a0897d2.js": "5813ff63283639aca24b6625dca46e15cc02e685",
     "/polyfills-es5.4869d26f4a4cd8ceed18.js": "a95c847c29d35859439e48db460da5119e260a60",
+    "/presentation/manifest.webmanifest": "32fd8546224abe51476dee041ad856ef9ace5caa",
     "/runtime-es2015.50d08f8a6c15666bc11e.js": "698c975ad3c4ef422364d0d65875f4702a7e0886",
     "/runtime-es5.e7616c7a6ae93032ba7d.js": "fba0744444ae23a0c794af8614adc5937c23b91d",
     "/styles.ac73ff71ca34ee41a047.css": "80384033bbabfe9347308f15d807f3e34d9b2b1d",
